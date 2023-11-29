@@ -1,0 +1,49 @@
+4
+MH2212
+sua
+lang chanh
+MH001
+Banh mi
+Cong ty A
+MH002
+Nuoc giai khat
+Cong ty B
+MH003
+Sua tuoi
+Cong ty C
+5
+MH2212
+sua
+Mua
+400
+2023
+200000
+
+HD001
+MH001
+Ban
+10
+2022-10-25
+1500
+
+HD002
+MH002
+Mua
+20
+2022-10-26
+3000
+
+HD003
+MH003
+Ban
+15
+2022-10-27
+2000
+
+HD004
+MH002
+Ban
+5
+2022-10-29
+2500
+
